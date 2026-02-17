@@ -4,7 +4,7 @@
 Sou graduanda em **Ciências Contábeis** na Trevisan Escola de Negócio e Embaixadora **DIO Campus Expert**. Meu foco é construir uma mentalidade *Data Driven* para elevar o padrão da análise financeira e compliance.
 
 - 🔍 **Experiência:** Ex Trainee de Auditoria na Grant Thornton e Ex estagiária no Banco Mercantil.
-- 🛠️ **Hard Skills Técnicas:** Validação de Saldos e Transações, Análise de Variações e Teste de Integridade.
+- 🛠️ **Hard Skills:** Validação de Saldos e Transações, Análise de Variações e Teste de Integridade.
 - 🌎 **Idiomas:** Estudando Inglês.
 
 ### 🛠️ Explorando
